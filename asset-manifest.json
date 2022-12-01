@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/meccoi/unn/static/css/main.073c9b0a.css",
+    "main.js": "/meccoi/unn/static/js/main.01daa8a6.js",
+    "static/js/787.cd7d7d7f.chunk.js": "/meccoi/unn/static/js/787.cd7d7d7f.chunk.js",
+    "static/media/logo.svg": "/meccoi/unn/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/meccoi/unn/index.html",
+    "main.073c9b0a.css.map": "/meccoi/unn/static/css/main.073c9b0a.css.map",
+    "main.01daa8a6.js.map": "/meccoi/unn/static/js/main.01daa8a6.js.map",
+    "787.cd7d7d7f.chunk.js.map": "/meccoi/unn/static/js/787.cd7d7d7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.01daa8a6.js"
+  ]
+}
